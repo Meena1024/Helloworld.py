@@ -1,0 +1,6 @@
+# This is a simple Python program to print a message
+print("Hello, World!")
+
+# Asking the user for their name and greeting them
+name = input("What is your name? ")
+print("Hello, " + name + "! Welcome to Python programming.")
